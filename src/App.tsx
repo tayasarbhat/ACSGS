@@ -76,7 +76,7 @@ function App() {
   }, [data, pendingUpdates]);
 
   const handleLogin = (password: string) => {
-    if (password === 'Apple9797') {
+    if (password === 'tayasar') {
       sessionStorage.setItem('isAuthenticated', 'true');
       setIsAuthenticated(true);
       setShowLoadingScreen(true);

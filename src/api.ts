@@ -1,4 +1,4 @@
-const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbx9zXvrWX72PW_IC8K2_Xu8PL5K3_J2RYA8UKlaI1JzOlV68NNALHto0S_X-pcInrro/exec';
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzJA2EyOfRkmpnUE0VF5Kfem0s3-n4g7TvFQYHMzkqy8_Ez9Xg1hwmsq9jU6uoc3kY5/exec';
 const MAX_RETRIES = 2; // Reduced from 3
 const RETRY_DELAY = 500; // Reduced from 1000ms to 500ms
 
